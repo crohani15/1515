@@ -1,124 +1,94 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "team": "Liverpool F.C.",
+      "founded": "1892",
+      "location": "Liverpool, United Kingdom",
+      "manager": "Jurgen Klopp"
+    },
+   {
+      "team": "Manchester City F.C.",
+      "founded": "1894",
+      "location": "Manchester, United Kingdom",
+      "manager": "Pep Guardiola"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "team": "Chelsea F.C.",
+      "founded": "1905",
+      "location": "London, United Kingdom",
+      "manager": "Maurizio Sarri"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "team": "Manchester United F.C.",
+      "founded": "1878",
+      "location": "Manchester, United Kingdom",
+      "manager": "Ole Gunnar Solskjaer"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "team": "Arsenal F.C.",
+      "founded": "1886",
+      "location": "London, United Kingdom",
+      "manager": "Unai Emery"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "team": "Tottenham Hotspur F.C.",
+      "founded": "1882",
+      "location": "London, United Kingdom",
+      "manager": "Mauricio Pochettino"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "team": "Newcastle United F.C.",
+      "founded": "1892",
+      "location": "Newcastle, United Kingdom",
+      "manager": "Rafael Benitez"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "team": "West Ham United F.C.",
+      "founded": "1895",
+      "location": "Stratford, United Kingdom",
+      "manager": "Manuel Pellegrini"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "team": "Cardiff City F.C.",
+      "founded": "1899",
+      "location": "Cardiff, Wales",
+      "manager": "Neil Warnock"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "team": "AFC Bournemouth",
+      "founded": "1890",
+      "location": "Bournemouth, United Kingdom",
+      "manager": "Eddie Howe"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "team": "Southampton F.C.",
+      "founded": "1885",
+      "location": "Southampton, United Kingdom",
+      "manager": "Ralph Hasenhuttl"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "team": "Watford F.C.",
+      "founded": "1898",
+      "location": "Watford, United Kingdom",
+      "manager": "Javi Gracia"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "team": "Leicester City F.C.",
+      "founded": "1884",
+      "location": "Leicester, United Kingdom",
+      "manager": "Brendan Rodgers"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "team": "Everton F.C.",
+      "founded": "1888",
+      "location": "Liverpool, United Kingdom",
+      "manager": "Marco Silva"
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
-    },
-    {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "team": "Crystal Palace F.C.",
+      "founded": "1905",
+      "location": "Selhurst, United Kingdom",
+      "manager": "Roy Hodgson"
     }
   ]
 }
