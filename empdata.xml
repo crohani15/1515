@@ -1,123 +1,93 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <team>Liverpool F.C.</team>
+      <founded>1892</founded>
+      <location>Liverpool, United Kingdom</location>
+      <manager>Jurgen Klopp</manager>
     </data>
     <data>
-      <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <team>Manchester City F.C.</team>
+      <founded>1894</founded>
+      <location>Manchester, United Kingdom</location>
+      <manager>Pep Guardiola</manager>
     </data>
     <data>
-      <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
+      <team>Chelsea F.C.</team>
+      <founded>1905</founded>
+      <location>London, United Kingdom</location>
+      <manager>Maurizio Sarri</manager>
     </data>
     <data>
-      <name>Airi Satou</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
+      <team>Manchester United F.C.</team>
+      <founded>1878</founded>
+      <location>Manchester, United Kingdom</location>
+      <manager>Ole Gunnar Solskjaer</manager>
     </data>
     <data>
-      <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
+      <team>Arsenal F.C.</team>
+      <founded>1886</founded>
+      <location>London, United Kingdom</location>
+      <manager>Unia Emery</manager>
     </data>
     <data>
-      <name>Shad Decker</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <team>Tottenham Hotspur F.C.</team>
+      <founded>1882</founded>
+      <location>London, United Kingdom</location>
+      <manager>Mauricio Pochettino</manager>
     </data>
     <data>
-      <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <team>Newcastle United F.C.</team>
+      <founded>1892</founded>
+      <location>Newcastle, United Kingdom</location>
+      <manager>Rafael Benitez</manager>
     </data>
     <data>
-      <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+      <team>West Ham United F.C.</team>
+      <founded>1895</founded>
+      <location>Stratford, United Kingdom</location>
+      <manager>Manuel Pellegrini</manager>
     </data>
     <data>
-      <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+      <team>Cardiff City F.C.</team>
+      <founded>1899</founded>
+      <location>Cardiff, Wales</location>
+      <manager>Neil Warnock</manager>
     </data>
     <data>
-      <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+      <team>AFC Bournemouth</team>
+      <founded>1890</founded>
+      <location>Bournemouth, United Kingdom</location>
+      <manager>Eddie Howe</manager>
     </data>
     <data>
-      <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
+      <team>Southampton F.C.</team>
+      <founded>1885</founded>
+      <location>Southampton, United Kingdom</location>
+      <manager>Ralph Hasenhuttl</manager>
     </data>
     <data>
-      <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
+      <team>Watford F.C.</team>
+      <founded>1898</founded>
+      <location>Watford, United Kingdom</location>
+      <manager>Javi Gracia</manager>
     </data>
     <data>
-      <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
+      <team>Leicester City F.C.</team>
+      <founded>1884</founded>
+      <location>Leicester, United Kingdom</location>
+      <manager>Brendan Rodgers</manager>
     </data>
     <data>
-      <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
+      <team>Everton F.C.</team>
+      <founded>1888</founded>
+      <location>Liverpool, United Kingdom</location>
+      <manager>Marco Silva</manager>
     </data>
     <data>
-      <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
+      <team>Crystal Palace F.C.</team>
+      <founded>1905</founded>
+      <location>Selhurst, United Kingdom</location>
+      <manager>Roy Hodgson</manager>
     </data>
   </employees>
