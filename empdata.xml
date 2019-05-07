@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-  <employees>
+  <teams>
     <data>
       <team>Liverpool F.C.</team>
       <founded>1892</founded>
@@ -28,7 +28,7 @@
       <team>Arsenal F.C.</team>
       <founded>1886</founded>
       <location>London, United Kingdom</location>
-      <manager>Unia Emery</manager>
+      <manager>Unai Emery</manager>
     </data>
     <data>
       <team>Tottenham Hotspur F.C.</team>
@@ -90,4 +90,4 @@
       <location>Selhurst, United Kingdom</location>
       <manager>Roy Hodgson</manager>
     </data>
-  </employees>
+  </teams>
